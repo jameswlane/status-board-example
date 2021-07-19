@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/jameswlane/status-board-example#readme",
   "dependencies": {
-    "ical": "0.6.0",
+    "ical": "0.8.0",
     "status-board": "1.1.83"
   },
   "devDependencies": {
